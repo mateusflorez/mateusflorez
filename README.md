@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m open to work
+- 🌱 I’m currently learning Ruby on rails
+- 📫 mateusflorespaz@gmail.com
+
 <!--
 **mateusflorez/mateusflorez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
