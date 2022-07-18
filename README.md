@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m open to work
-- 🌱 I’m currently learning Ruby on rails
+- 🔭 Open to work
+- 🌱 Currently learning Ruby on rails
 - 📫 mateusflorespaz@gmail.com
 
 <!--
