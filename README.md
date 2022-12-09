@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Open to work
-- 🌱 Currently learning Ruby on rails
+- 🌱 Aiming to become a Web developer
 - 📫 mateusflorespaz@gmail.com
 
 <!--
