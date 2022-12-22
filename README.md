@@ -2,7 +2,7 @@
 
 Hi there! My name is Mateus Paz and I am a junior web developer based in Brazil. I am passionate about building modern, responsive and user-friendly websites and web applications using the latest technologies and best practices.
 
-##### Skills
+#### Skills
 - HTML, CSS 
 - JavaScript and TypeScript
 - PHP and CodeIgniter
@@ -11,7 +11,7 @@ Hi there! My name is Mateus Paz and I am a junior web developer based in Brazil.
 - Node.js and Express
 - MySQL
 
-##### Contact
+#### Contact
 
 Feel free to contact me on LinkedIn or send me an email at mateusflorespaz@gmail.com.
 
