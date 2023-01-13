@@ -9,7 +9,7 @@ Hi there! My name is Mateus Paz and I am a junior web developer based in Brazil.
 - Ruby on Rails
 - React
 - Node.js and Express
-- MySQL
+- SQL
 
 #### Contact
 
