@@ -7,7 +7,7 @@ Hi there! My name is Mateus Paz and I am a junior web developer based in Brazil.
 - React
 - JavaScript and TypeScript
 - PHP
-- Ruby on Rails
+- Python and Django
 - SQL
 - HTML, CSS
 
